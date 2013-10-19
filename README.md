@@ -1,7 +1,7 @@
 pinch-and-scroll-like-clash-of-clans
 ====================================
 
-This is a demo to show the effect
+This is a demo to show the effect of pinching and scrolling like COC
 
 More info please refer to http://my.oschina.net/ekc/blog
 
